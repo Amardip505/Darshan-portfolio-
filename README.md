@@ -2,62 +2,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Darshan Deep Lama | Fitness Coach</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      color: #333;
-    }
-    header {
-      background: #000;
-      color: #fff;
-      padding: 40px 20px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-    }
-    header p {
-      font-size: 1.2em;
-    }
-    section {
-      padding: 40px 20px;
-      max-width: 800px;
-      margin: auto;
-    }
-    h2 {
-      color: #000;
-      margin-bottom: 20px;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    ul li::before {
-      content: "\2713\0020";
-      color: green;
-    }
-    footer {
-      background: #000;
-      color: #fff;
-      text-align: center;
-      padding: 20px;
-    }
-    a {
-      color: #1da1f2;
-      text-decoration: none;
-    }
-    .contact {
-      font-weight: bold;
-      margin-top: 20px;
-    }
-  </style>
 </head>
 <body>
   <header>
